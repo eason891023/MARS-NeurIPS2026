@@ -1,0 +1,12 @@
+{
+  "ff": {
+    "lambda_beta_l2": 0.001,
+    "lambda_beta_l2_pilot_val": 92.52450980392157
+  },
+  "rsnn": {
+    "lambda_beta_l2": 0.1,
+    "lambda_beta_l2_pilot_val": 92.6470588235294,
+    "dropconnect_p": 0.05,
+    "dropconnect_pilot_val": 90.44117647058823
+  }
+}

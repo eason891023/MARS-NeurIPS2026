@@ -1,0 +1,722 @@
+[
+ {
+  "dataset": "SHD-FC",
+  "mode": "clean",
+  "seed": 42,
+  "asar_loss": 108502.10047743056,
+  "clean_acc": 74.51413427561837,
+  "robust_acc": 55.671378091872796,
+  "acc_drop": 18.84275618374558
+ },
+ {
+  "dataset": "SHD-FC",
+  "mode": "hajr",
+  "seed": 42,
+  "asar_loss": 7297.644368489583,
+  "clean_acc": 77.12014134275618,
+  "robust_acc": 67.30565371024736,
+  "acc_drop": 9.814487632508829
+ },
+ {
+  "dataset": "SHD-FC",
+  "mode": "asar",
+  "seed": 42,
+  "asar_loss": 84.78604210747613,
+  "clean_acc": 74.02826855123675,
+  "robust_acc": 73.07420494699649,
+  "acc_drop": 0.954063604240261
+ },
+ {
+  "dataset": "SHD-FC",
+  "mode": "noise_aug",
+  "seed": 42,
+  "asar_loss": 3409.8018459743926,
+  "clean_acc": 75.61837455830388,
+  "robust_acc": 73.70583038869259,
+  "acc_drop": 1.9125441696112944
+ },
+ {
+  "dataset": "SHD-FC",
+  "mode": "clean",
+  "seed": 52,
+  "asar_loss": 85978.32942708333,
+  "clean_acc": 77.42932862190813,
+  "robust_acc": 51.925795053003526,
+  "acc_drop": 25.5035335689046
+ },
+ {
+  "dataset": "SHD-FC",
+  "mode": "hajr",
+  "seed": 52,
+  "asar_loss": 18044.437744140625,
+  "clean_acc": 75.79505300353357,
+  "robust_acc": 60.00883392226149,
+  "acc_drop": 15.78621908127208
+ },
+ {
+  "dataset": "SHD-FC",
+  "mode": "asar",
+  "seed": 52,
+  "asar_loss": 88.16209093729655,
+  "clean_acc": 77.12014134275618,
+  "robust_acc": 77.3851590106007,
+  "acc_drop": -0.26501766784451775
+ },
+ {
+  "dataset": "SHD-FC",
+  "mode": "noise_aug",
+  "seed": 52,
+  "asar_loss": 6280.352566189236,
+  "clean_acc": 77.42932862190813,
+  "robust_acc": 75.55212014134275,
+  "acc_drop": 1.877208480565372
+ },
+ {
+  "dataset": "SHD-FC",
+  "mode": "clean",
+  "seed": 72,
+  "asar_loss": 71360.36469184028,
+  "clean_acc": 76.85512367491167,
+  "robust_acc": 59.77031802120141,
+  "acc_drop": 17.084805653710255
+ },
+ {
+  "dataset": "SHD-FC",
+  "mode": "hajr",
+  "seed": 72,
+  "asar_loss": 6900.700371636285,
+  "clean_acc": 77.60600706713781,
+  "robust_acc": 65.90547703180212,
+  "acc_drop": 11.700530035335689
+ },
+ {
+  "dataset": "SHD-FC",
+  "mode": "asar",
+  "seed": 72,
+  "asar_loss": 84.97709952460394,
+  "clean_acc": 77.69434628975264,
+  "robust_acc": 77.37190812720847,
+  "acc_drop": 0.3224381625441737
+ },
+ {
+  "dataset": "SHD-FC",
+  "mode": "noise_aug",
+  "seed": 72,
+  "asar_loss": 4621.844957139757,
+  "clean_acc": 76.67844522968198,
+  "robust_acc": 75.73763250883391,
+  "acc_drop": 0.9408127208480721
+ },
+ {
+  "dataset": "SHD-FC",
+  "mode": "clean",
+  "seed": 92,
+  "asar_loss": 129748.05794270833,
+  "clean_acc": 81.2279151943463,
+  "robust_acc": 62.332155477031804,
+  "acc_drop": 18.89575971731449
+ },
+ {
+  "dataset": "SHD-FC",
+  "mode": "hajr",
+  "seed": 92,
+  "asar_loss": 5881.868421766493,
+  "clean_acc": 78.2243816254417,
+  "robust_acc": 68.48056537102472,
+  "acc_drop": 9.74381625441697
+ },
+ {
+  "dataset": "SHD-FC",
+  "mode": "asar",
+  "seed": 92,
+  "asar_loss": 99.93222024705675,
+  "clean_acc": 78.57773851590106,
+  "robust_acc": 77.87544169611306,
+  "acc_drop": 0.7022968197880033
+ },
+ {
+  "dataset": "SHD-FC",
+  "mode": "noise_aug",
+  "seed": 92,
+  "asar_loss": 6699.8756103515625,
+  "clean_acc": 74.69081272084806,
+  "robust_acc": 69.3065371024735,
+  "acc_drop": 5.384275618374559
+ },
+ {
+  "dataset": "SHD-FC",
+  "mode": "clean",
+  "seed": 102,
+  "asar_loss": 57389.19314236111,
+  "clean_acc": 74.5583038869258,
+  "robust_acc": 59.244699646643106,
+  "acc_drop": 15.313604240282693
+ },
+ {
+  "dataset": "SHD-FC",
+  "mode": "hajr",
+  "seed": 102,
+  "asar_loss": 11000.614556206598,
+  "clean_acc": 78.04770318021201,
+  "robust_acc": 68.86042402826857,
+  "acc_drop": 9.187279151943443
+ },
+ {
+  "dataset": "SHD-FC",
+  "mode": "asar",
+  "seed": 102,
+  "asar_loss": 86.04603110419379,
+  "clean_acc": 77.42932862190813,
+  "robust_acc": 77.02296819787986,
+  "acc_drop": 0.40636042402826433
+ },
+ {
+  "dataset": "SHD-FC",
+  "mode": "noise_aug",
+  "seed": 102,
+  "asar_loss": 4035.214152018229,
+  "clean_acc": 76.81095406360424,
+  "robust_acc": 71.98763250883391,
+  "acc_drop": 4.823321554770331
+ },
+ {
+  "dataset": "SHD-RSNN",
+  "mode": "clean",
+  "seed": 42,
+  "asar_loss": 3237.5100843641494,
+  "clean_acc": 83.70141342756183,
+  "robust_acc": 66.6696113074205,
+  "acc_drop": 17.031802120141336
+ },
+ {
+  "dataset": "SHD-RSNN",
+  "mode": "hajr",
+  "seed": 42,
+  "asar_loss": 2127.9379001193574,
+  "clean_acc": 83.48056537102474,
+  "robust_acc": 75.39310954063605,
+  "acc_drop": 8.087455830388691
+ },
+ {
+  "dataset": "SHD-RSNN",
+  "mode": "asar",
+  "seed": 42,
+  "asar_loss": 77.32524553934734,
+  "clean_acc": 86.13074204946996,
+  "robust_acc": 85.59187279151944,
+  "acc_drop": 0.5388692579505232
+ },
+ {
+  "dataset": "SHD-RSNN",
+  "mode": "noise_aug",
+  "seed": 42,
+  "asar_loss": 1446.942165798611,
+  "clean_acc": 83.92226148409894,
+  "robust_acc": 82.85335689045937,
+  "acc_drop": 1.068904593639573
+ },
+ {
+  "dataset": "SHD-RSNN",
+  "mode": "clean",
+  "seed": 52,
+  "asar_loss": 10581.169325086805,
+  "clean_acc": 86.88162544169612,
+  "robust_acc": 58.343639575971736,
+  "acc_drop": 28.53798586572438
+ },
+ {
+  "dataset": "SHD-RSNN",
+  "mode": "hajr",
+  "seed": 52,
+  "asar_loss": 4077.5232747395835,
+  "clean_acc": 83.48056537102474,
+  "robust_acc": 73.08303886925795,
+  "acc_drop": 10.39752650176679
+ },
+ {
+  "dataset": "SHD-RSNN",
+  "mode": "asar",
+  "seed": 52,
+  "asar_loss": 70.18236817253961,
+  "clean_acc": 86.74911660777386,
+  "robust_acc": 86.24116607773851,
+  "acc_drop": 0.5079505300353446
+ },
+ {
+  "dataset": "SHD-RSNN",
+  "mode": "noise_aug",
+  "seed": 52,
+  "asar_loss": 2568.9107598198784,
+  "clean_acc": 84.98233215547704,
+  "robust_acc": 83.88250883392226,
+  "acc_drop": 1.09982332155478
+ },
+ {
+  "dataset": "SHD-RSNN",
+  "mode": "clean",
+  "seed": 72,
+  "asar_loss": 6545.7570393880205,
+  "clean_acc": 84.45229681978799,
+  "robust_acc": 59.801236749116605,
+  "acc_drop": 24.651060070671384
+ },
+ {
+  "dataset": "SHD-RSNN",
+  "mode": "hajr",
+  "seed": 72,
+  "asar_loss": 3156.677639431424,
+  "clean_acc": 87.85335689045937,
+  "robust_acc": 75.06183745583039,
+  "acc_drop": 12.791519434628981
+ },
+ {
+  "dataset": "SHD-RSNN",
+  "mode": "asar",
+  "seed": 72,
+  "asar_loss": 88.02001762390137,
+  "clean_acc": 84.62897526501767,
+  "robust_acc": 84.58480565371025,
+  "acc_drop": 0.04416961130742436
+ },
+ {
+  "dataset": "SHD-RSNN",
+  "mode": "noise_aug",
+  "seed": 72,
+  "asar_loss": 1818.0726521809895,
+  "clean_acc": 85.73321554770318,
+  "robust_acc": 85.07067137809187,
+  "acc_drop": 0.6625441696113086
+ },
+ {
+  "dataset": "SHD-RSNN",
+  "mode": "clean",
+  "seed": 92,
+  "asar_loss": 13362.89954969618,
+  "clean_acc": 84.54063604240282,
+  "robust_acc": 64.57597173144876,
+  "acc_drop": 19.964664310954063
+ },
+ {
+  "dataset": "SHD-RSNN",
+  "mode": "hajr",
+  "seed": 92,
+  "asar_loss": 4173.688666449652,
+  "clean_acc": 78.53356890459364,
+  "robust_acc": 69.09452296819788,
+  "acc_drop": 9.439045936395758
+ },
+ {
+  "dataset": "SHD-RSNN",
+  "mode": "asar",
+  "seed": 92,
+  "asar_loss": 84.33805380927191,
+  "clean_acc": 83.43639575971731,
+  "robust_acc": 82.68992932862191,
+  "acc_drop": 0.7464664310953992
+ },
+ {
+  "dataset": "SHD-RSNN",
+  "mode": "noise_aug",
+  "seed": 92,
+  "asar_loss": 2890.6940171983506,
+  "clean_acc": 85.29151943462898,
+  "robust_acc": 82.3012367491166,
+  "acc_drop": 2.9902826855123834
+ },
+ {
+  "dataset": "SHD-RSNN",
+  "mode": "clean",
+  "seed": 102,
+  "asar_loss": 5864.106784396701,
+  "clean_acc": 85.90989399293287,
+  "robust_acc": 75.58303886925795,
+  "acc_drop": 10.326855123674918
+ },
+ {
+  "dataset": "SHD-RSNN",
+  "mode": "hajr",
+  "seed": 102,
+  "asar_loss": 3106.9132690429688,
+  "clean_acc": 81.62544169611307,
+  "robust_acc": 79.39487632508833,
+  "acc_drop": 2.2305653710247384
+ },
+ {
+  "dataset": "SHD-RSNN",
+  "mode": "asar",
+  "seed": 102,
+  "asar_loss": 78.10796462164984,
+  "clean_acc": 83.30388692579506,
+  "robust_acc": 82.69434628975264,
+  "acc_drop": 0.6095406360424107
+ },
+ {
+  "dataset": "SHD-RSNN",
+  "mode": "noise_aug",
+  "seed": 102,
+  "asar_loss": 3005.287692599826,
+  "clean_acc": 87.45583038869258,
+  "robust_acc": 86.12190812720848,
+  "acc_drop": 1.3339222614840907
+ },
+ {
+  "dataset": "DVS",
+  "mode": "clean",
+  "seed": 42,
+  "asar_loss": 20830.830699573864,
+  "clean_acc": 77.27272727272727,
+  "robust_acc": 74.88636363636364,
+  "acc_drop": 2.386363636363626
+ },
+ {
+  "dataset": "DVS",
+  "mode": "hajr",
+  "seed": 42,
+  "asar_loss": 1395.5968905362215,
+  "clean_acc": 87.12121212121212,
+  "robust_acc": 87.34848484848484,
+  "acc_drop": -0.22727272727271952
+ },
+ {
+  "dataset": "DVS",
+  "mode": "asar",
+  "seed": 42,
+  "asar_loss": 3.2938024058486475,
+  "clean_acc": 89.39393939393939,
+  "robust_acc": 88.03030303030303,
+  "acc_drop": 1.3636363636363598
+ },
+ {
+  "dataset": "DVS",
+  "mode": "noise_aug",
+  "seed": 42,
+  "asar_loss": 51289.51840672349,
+  "clean_acc": 84.0909090909091,
+  "robust_acc": 81.5909090909091,
+  "acc_drop": 2.5
+ },
+ {
+  "dataset": "DVS",
+  "mode": "clean",
+  "seed": 52,
+  "asar_loss": 3584.038537227746,
+  "clean_acc": 87.5,
+  "robust_acc": 83.14393939393939,
+  "acc_drop": 4.356060606060609
+ },
+ {
+  "dataset": "DVS",
+  "mode": "hajr",
+  "seed": 52,
+  "asar_loss": 615.1213887532552,
+  "clean_acc": 85.98484848484848,
+  "robust_acc": 85.37878787878789,
+  "acc_drop": 0.6060606060605949
+ },
+ {
+  "dataset": "DVS",
+  "mode": "asar",
+  "seed": 52,
+  "asar_loss": 6.30336332321167,
+  "clean_acc": 87.87878787878788,
+  "robust_acc": 85.11363636363636,
+  "acc_drop": 2.7651515151515156
+ },
+ {
+  "dataset": "DVS",
+  "mode": "noise_aug",
+  "seed": 52,
+  "asar_loss": 1671.0674456972065,
+  "clean_acc": 87.5,
+  "robust_acc": 86.5909090909091,
+  "acc_drop": 0.9090909090909065
+ },
+ {
+  "dataset": "DVS",
+  "mode": "clean",
+  "seed": 72,
+  "asar_loss": 41534.443892045456,
+  "clean_acc": 87.87878787878788,
+  "robust_acc": 85.9090909090909,
+  "acc_drop": 1.9696969696969688
+ },
+ {
+  "dataset": "DVS",
+  "mode": "hajr",
+  "seed": 72,
+  "asar_loss": 4767.079937559186,
+  "clean_acc": 85.98484848484848,
+  "robust_acc": 83.86363636363636,
+  "acc_drop": 2.1212121212121247
+ },
+ {
+  "dataset": "DVS",
+  "mode": "asar",
+  "seed": 72,
+  "asar_loss": 4.489263187755238,
+  "clean_acc": 84.84848484848484,
+  "robust_acc": 84.28030303030303,
+  "acc_drop": 0.568181818181813
+ },
+ {
+  "dataset": "DVS",
+  "mode": "noise_aug",
+  "seed": 72,
+  "asar_loss": 7297.456173058712,
+  "clean_acc": 87.5,
+  "robust_acc": 83.52272727272728,
+  "acc_drop": 3.9772727272727195
+ },
+ {
+  "dataset": "DVS",
+  "mode": "clean",
+  "seed": 92,
+  "asar_loss": 21918.648674242424,
+  "clean_acc": 83.33333333333333,
+  "robust_acc": 77.08333333333334,
+  "acc_drop": 6.249999999999986
+ },
+ {
+  "dataset": "DVS",
+  "mode": "hajr",
+  "seed": 92,
+  "asar_loss": 452.4618974165483,
+  "clean_acc": 87.12121212121212,
+  "robust_acc": 87.34848484848484,
+  "acc_drop": -0.22727272727271952
+ },
+ {
+  "dataset": "DVS",
+  "mode": "asar",
+  "seed": 92,
+  "asar_loss": 9.562637777039498,
+  "clean_acc": 83.71212121212122,
+  "robust_acc": 82.72727272727273,
+  "acc_drop": 0.9848484848484844
+ },
+ {
+  "dataset": "DVS",
+  "mode": "noise_aug",
+  "seed": 92,
+  "asar_loss": 14891.06827059659,
+  "clean_acc": 87.5,
+  "robust_acc": 86.66666666666667,
+  "acc_drop": 0.8333333333333286
+ },
+ {
+  "dataset": "DVS",
+  "mode": "clean",
+  "seed": 102,
+  "asar_loss": 4615.041008226799,
+  "clean_acc": 86.74242424242425,
+  "robust_acc": 87.46212121212122,
+  "acc_drop": -0.7196969696969688
+ },
+ {
+  "dataset": "DVS",
+  "mode": "hajr",
+  "seed": 102,
+  "asar_loss": 736.1462143406724,
+  "clean_acc": 85.60606060606061,
+  "robust_acc": 84.88636363636364,
+  "acc_drop": 0.7196969696969688
+ },
+ {
+  "dataset": "DVS",
+  "mode": "asar",
+  "seed": 102,
+  "asar_loss": 3.8869777592745693,
+  "clean_acc": 89.39393939393939,
+  "robust_acc": 89.73484848484848,
+  "acc_drop": -0.3409090909090935
+ },
+ {
+  "dataset": "DVS",
+  "mode": "noise_aug",
+  "seed": 102,
+  "asar_loss": 1708.0172526041667,
+  "clean_acc": 81.81818181818181,
+  "robust_acc": 77.1969696969697,
+  "acc_drop": 4.6212121212121104
+ },
+ {
+  "dataset": "CIFAR10",
+  "mode": "clean",
+  "seed": 42,
+  "asar_loss": 2.5001468229293824,
+  "clean_acc": 90.02,
+  "robust_acc": 90.02099999999999,
+  "acc_drop": -0.000999999999990564
+ },
+ {
+  "dataset": "CIFAR10",
+  "mode": "hajr",
+  "seed": 42,
+  "asar_loss": 2.1270694017410277,
+  "clean_acc": 90.39,
+  "robust_acc": 89.979,
+  "acc_drop": 0.41100000000000136
+ },
+ {
+  "dataset": "CIFAR10",
+  "mode": "asar",
+  "seed": 42,
+  "asar_loss": 1.8793102240562438,
+  "clean_acc": 89.98,
+  "robust_acc": 90.004,
+  "acc_drop": -0.02400000000000091
+ },
+ {
+  "dataset": "CIFAR10",
+  "mode": "noise_aug",
+  "seed": 42,
+  "asar_loss": 2.6920993280410768,
+  "clean_acc": 90.52,
+  "robust_acc": 90.54400000000001,
+  "acc_drop": -0.02400000000001512
+ },
+ {
+  "dataset": "CIFAR10",
+  "mode": "clean",
+  "seed": 52,
+  "asar_loss": 2.379482846260071,
+  "clean_acc": 90.26,
+  "robust_acc": 90.03099999999999,
+  "acc_drop": 0.22900000000001342
+ },
+ {
+  "dataset": "CIFAR10",
+  "mode": "hajr",
+  "seed": 52,
+  "asar_loss": 2.1446049642562866,
+  "clean_acc": 90.21,
+  "robust_acc": 89.968,
+  "acc_drop": 0.24199999999999022
+ },
+ {
+  "dataset": "CIFAR10",
+  "mode": "asar",
+  "seed": 52,
+  "asar_loss": 1.9175927257537841,
+  "clean_acc": 90.56,
+  "robust_acc": 90.45,
+  "acc_drop": 0.10999999999999943
+ },
+ {
+  "dataset": "CIFAR10",
+  "mode": "noise_aug",
+  "seed": 52,
+  "asar_loss": 2.663410015106201,
+  "clean_acc": 90.25,
+  "robust_acc": 90.13099999999999,
+  "acc_drop": 0.11900000000001398
+ },
+ {
+  "dataset": "CIFAR10",
+  "mode": "clean",
+  "seed": 72,
+  "asar_loss": 2.4955712223052977,
+  "clean_acc": 89.93,
+  "robust_acc": 89.836,
+  "acc_drop": 0.0940000000000083
+ },
+ {
+  "dataset": "CIFAR10",
+  "mode": "hajr",
+  "seed": 72,
+  "asar_loss": 2.1175449228286745,
+  "clean_acc": 90.08,
+  "robust_acc": 90.023,
+  "acc_drop": 0.05700000000000216
+ },
+ {
+  "dataset": "CIFAR10",
+  "mode": "asar",
+  "seed": 72,
+  "asar_loss": 1.9279051256179809,
+  "clean_acc": 90.03,
+  "robust_acc": 89.862,
+  "acc_drop": 0.16800000000000637
+ },
+ {
+  "dataset": "CIFAR10",
+  "mode": "noise_aug",
+  "seed": 72,
+  "asar_loss": 2.710497751235962,
+  "clean_acc": 90.07,
+  "robust_acc": 89.936,
+  "acc_drop": 0.13399999999998613
+ },
+ {
+  "dataset": "CIFAR10",
+  "mode": "clean",
+  "seed": 92,
+  "asar_loss": 2.4772990942001343,
+  "clean_acc": 90.29,
+  "robust_acc": 90.101,
+  "acc_drop": 0.18900000000000716
+ },
+ {
+  "dataset": "CIFAR10",
+  "mode": "hajr",
+  "seed": 92,
+  "asar_loss": 2.2153094530105593,
+  "clean_acc": 90.38,
+  "robust_acc": 90.181,
+  "acc_drop": 0.19899999999999807
+ },
+ {
+  "dataset": "CIFAR10",
+  "mode": "asar",
+  "seed": 92,
+  "asar_loss": 1.935465271472931,
+  "clean_acc": 90.22,
+  "robust_acc": 90.08400000000002,
+  "acc_drop": 0.13599999999998147
+ },
+ {
+  "dataset": "CIFAR10",
+  "mode": "noise_aug",
+  "seed": 92,
+  "asar_loss": 2.5914408779144287,
+  "clean_acc": 90.54,
+  "robust_acc": 90.324,
+  "acc_drop": 0.21600000000000819
+ },
+ {
+  "dataset": "CIFAR10",
+  "mode": "clean",
+  "seed": 102,
+  "asar_loss": 2.5249968481063845,
+  "clean_acc": 90.64,
+  "robust_acc": 90.39699999999999,
+  "acc_drop": 0.2430000000000092
+ },
+ {
+  "dataset": "CIFAR10",
+  "mode": "hajr",
+  "seed": 102,
+  "asar_loss": 2.0643188047409056,
+  "clean_acc": 90.09,
+  "robust_acc": 89.98100000000001,
+  "acc_drop": 0.10899999999999466
+ },
+ {
+  "dataset": "CIFAR10",
+  "mode": "asar",
+  "seed": 102,
+  "asar_loss": 1.961076934337616,
+  "clean_acc": 90.26,
+  "robust_acc": 90.126,
+  "acc_drop": 0.13400000000000034
+ },
+ {
+  "dataset": "CIFAR10",
+  "mode": "noise_aug",
+  "seed": 102,
+  "asar_loss": 2.6430079317092896,
+  "clean_acc": 90.48,
+  "robust_acc": 90.23400000000001,
+  "acc_drop": 0.2459999999999951
+ }
+]

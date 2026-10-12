@@ -1,0 +1,68 @@
+{
+ "metadata": {
+  "device": "cuda",
+  "gpu": "NVIDIA GeForce RTX 5090",
+  "protocol": "exact submitted architecture, real training batch, forward + regularizer/noise augmentation + backward + gradient handling + Adam update; excludes data loading",
+  "settings": [
+   "dvs_gesture"
+  ],
+  "modes": [
+   "clean",
+   "asar",
+   "noise_aug"
+  ]
+ },
+ "records": [
+  {
+   "setting": "dvs_gesture",
+   "mode": "clean",
+   "status": "ok",
+   "batch_size": 8,
+   "time_steps": 16,
+   "parameter_count": 10543826,
+   "batch_source": "real_submitted_training_loader",
+   "seconds_per_step_mean": 0.08273930549621582,
+   "seconds_per_step_std": 0.0012193557858964574,
+   "steps_per_second": 12.086154144063201,
+   "incremental_peak_gib_mean": 5.256028175354004,
+   "absolute_peak_gib_max": 5.561316967010498,
+   "loss_last": 5.305120468139648,
+   "repeats": 10,
+   "warmup": 3
+  },
+  {
+   "setting": "dvs_gesture",
+   "mode": "asar",
+   "status": "ok",
+   "batch_size": 8,
+   "time_steps": 16,
+   "parameter_count": 10543826,
+   "batch_source": "real_submitted_training_loader",
+   "seconds_per_step_mean": 0.1425569242797792,
+   "seconds_per_step_std": 0.0008058051004137679,
+   "steps_per_second": 7.01474169039605,
+   "incremental_peak_gib_mean": 12.054003238677979,
+   "absolute_peak_gib_max": 12.765350818634033,
+   "loss_last": 7.278696537017822,
+   "repeats": 10,
+   "warmup": 3
+  },
+  {
+   "setting": "dvs_gesture",
+   "mode": "noise_aug",
+   "status": "ok",
+   "batch_size": 8,
+   "time_steps": 16,
+   "parameter_count": 10543826,
+   "batch_source": "real_submitted_training_loader",
+   "seconds_per_step_mean": 0.080768964253366,
+   "seconds_per_step_std": 0.0004376477679739328,
+   "steps_per_second": 12.380993234766231,
+   "incremental_peak_gib_mean": 5.255299091339111,
+   "absolute_peak_gib_max": 6.161984443664551,
+   "loss_last": 7.6605024337768555,
+   "repeats": 10,
+   "warmup": 3
+  }
+ ]
+}

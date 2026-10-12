@@ -1,0 +1,14 @@
+# Tested versions in parentheses (see README); checkpoints were trained with an earlier torch release.
+torch            # tested 2.11.0
+torchvision      # tested 0.26.0
+snntorch==0.9.4
+tonic==1.6.0
+numpy            # tested 1.26.4
+scipy            # tested 1.17.1
+matplotlib       # tested 3.10.8
+h5py             # tested 3.16.0
+spikingjelly==0.0.0.0.14
+DCLS==0.1.1
+wandb            # imported by the DelRec SSC code (runs with WANDB_MODE=disabled)
+prettytable
+tqdm

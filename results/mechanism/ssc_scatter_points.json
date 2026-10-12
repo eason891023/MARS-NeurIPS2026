@@ -1,0 +1,202 @@
+[
+ {
+  "dataset": "SSC",
+  "mode": "clean",
+  "seed": 42,
+  "asar_loss": 137.96634521484376,
+  "clean_acc": 81.95466588166029,
+  "robust_acc": 67.45412618977528,
+  "acc_drop": 14.50053969188501,
+  "max_batches": 10
+ },
+ {
+  "dataset": "SSC",
+  "mode": "clean",
+  "seed": 52,
+  "asar_loss": 156.423974609375,
+  "clean_acc": 82.00372878029634,
+  "robust_acc": 65.83112550289471,
+  "acc_drop": 16.172603277401635,
+  "max_batches": 10
+ },
+ {
+  "dataset": "SSC",
+  "mode": "clean",
+  "seed": 72,
+  "asar_loss": 156.560205078125,
+  "clean_acc": 82.1509174762045,
+  "robust_acc": 81.4100677068001,
+  "acc_drop": 0.7408497694043916,
+  "max_batches": 10
+ },
+ {
+  "dataset": "SSC",
+  "mode": "clean",
+  "seed": 92,
+  "asar_loss": 134.48622283935546,
+  "clean_acc": 82.0527916789324,
+  "robust_acc": 81.32126386026884,
+  "acc_drop": 0.731527818663551,
+  "max_batches": 10
+ },
+ {
+  "dataset": "SSC",
+  "mode": "clean",
+  "seed": 102,
+  "asar_loss": 139.4099136352539,
+  "clean_acc": 82.17054263565892,
+  "robust_acc": 77.50809537827494,
+  "acc_drop": 4.662447257383974,
+  "max_batches": 10
+ },
+ {
+  "dataset": "SSC",
+  "mode": "hajr",
+  "seed": 42,
+  "asar_loss": 84.77671737670899,
+  "clean_acc": 82.09204199784124,
+  "robust_acc": 69.75174173290159,
+  "acc_drop": 12.340300264939643,
+  "max_batches": 10
+ },
+ {
+  "dataset": "SSC",
+  "mode": "hajr",
+  "seed": 52,
+  "asar_loss": 92.67323532104493,
+  "clean_acc": 82.30791875183986,
+  "robust_acc": 73.59434795407712,
+  "acc_drop": 8.713570797762742,
+  "max_batches": 10
+ },
+ {
+  "dataset": "SSC",
+  "mode": "hajr",
+  "seed": 72,
+  "asar_loss": 90.53931427001953,
+  "clean_acc": 82.12638602688646,
+  "robust_acc": 81.79373957413404,
+  "acc_drop": 0.332646452752428,
+  "max_batches": 10
+ },
+ {
+  "dataset": "SSC",
+  "mode": "hajr",
+  "seed": 92,
+  "asar_loss": 84.79768295288086,
+  "clean_acc": 82.38641938965755,
+  "robust_acc": 81.69512314787559,
+  "acc_drop": 0.6912962417819557,
+  "max_batches": 10
+ },
+ {
+  "dataset": "SSC",
+  "mode": "hajr",
+  "seed": 102,
+  "asar_loss": 84.20505447387696,
+  "clean_acc": 81.94485330193308,
+  "robust_acc": 79.87488960847807,
+  "acc_drop": 2.0699636934550085,
+  "max_batches": 10
+ },
+ {
+  "dataset": "SSC",
+  "mode": "asar",
+  "seed": 42,
+  "asar_loss": 26.158512687683107,
+  "clean_acc": 82.16073005593171,
+  "robust_acc": 81.74663919144342,
+  "acc_drop": 0.414090864488287,
+  "max_batches": 10
+ },
+ {
+  "dataset": "SSC",
+  "mode": "asar",
+  "seed": 52,
+  "asar_loss": 26.697601127624512,
+  "clean_acc": 82.07241683838681,
+  "robust_acc": 81.76577372191149,
+  "acc_drop": 0.30664311647532827,
+  "max_batches": 10
+ },
+ {
+  "dataset": "SSC",
+  "mode": "asar",
+  "seed": 72,
+  "asar_loss": 26.563851737976073,
+  "clean_acc": 82.39623196938476,
+  "robust_acc": 82.09351388480032,
+  "acc_drop": 0.30271808458444127,
+  "max_batches": 10
+ },
+ {
+  "dataset": "SSC",
+  "mode": "asar",
+  "seed": 92,
+  "asar_loss": 26.35575065612793,
+  "clean_acc": 81.85163379452457,
+  "robust_acc": 81.83838681189285,
+  "acc_drop": 0.013246982631727633,
+  "max_batches": 10
+ },
+ {
+  "dataset": "SSC",
+  "mode": "asar",
+  "seed": 102,
+  "asar_loss": 26.282670402526854,
+  "clean_acc": 82.24413698361299,
+  "robust_acc": 81.98165047591012,
+  "acc_drop": 0.2624865077028744,
+  "max_batches": 10
+ },
+ {
+  "dataset": "SSC",
+  "mode": "noise_aug",
+  "seed": 42,
+  "asar_loss": 77.78535842895508,
+  "clean_acc": 82.30301246197625,
+  "robust_acc": 82.06996369345501,
+  "acc_drop": 0.23304876852124323,
+  "max_batches": 10
+ },
+ {
+  "dataset": "SSC",
+  "mode": "noise_aug",
+  "seed": 52,
+  "asar_loss": 72.41589431762695,
+  "clean_acc": 82.25885585320381,
+  "robust_acc": 81.71965459719361,
+  "acc_drop": 0.5392012560102017,
+  "max_batches": 10
+ },
+ {
+  "dataset": "SSC",
+  "mode": "noise_aug",
+  "seed": 72,
+  "asar_loss": 82.36090621948242,
+  "clean_acc": 81.83200863507015,
+  "robust_acc": 81.81385536257481,
+  "acc_drop": 0.018153272495339934,
+  "max_batches": 10
+ },
+ {
+  "dataset": "SSC",
+  "mode": "noise_aug",
+  "seed": 92,
+  "asar_loss": 89.54684753417969,
+  "clean_acc": 82.30791875183986,
+  "robust_acc": 82.25444019232656,
+  "acc_drop": 0.05347855951330871,
+  "max_batches": 10
+ },
+ {
+  "dataset": "SSC",
+  "mode": "noise_aug",
+  "seed": 102,
+  "asar_loss": 75.92303619384765,
+  "clean_acc": 82.36188794033951,
+  "robust_acc": 81.6715729565303,
+  "acc_drop": 0.6903149838092162,
+  "max_batches": 10
+ }
+]

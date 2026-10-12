@@ -1,0 +1,114 @@
+[
+ {
+  "dataset_arch": "SHD-FC",
+  "mode": "clean",
+  "max_lambda_r": 215.20697590690068,
+  "max_lambda_tilde": 2.2413315947620034,
+  "n_layers": 2
+ },
+ {
+  "dataset_arch": "SHD-FC",
+  "mode": "asar",
+  "max_lambda_r": 50.36145846724154,
+  "max_lambda_tilde": 0.9415813959546443,
+  "n_layers": 2
+ },
+ {
+  "dataset_arch": "SHD-FC",
+  "mode": "hajr",
+  "max_lambda_r": 117.89724658627475,
+  "max_lambda_tilde": 1.9876783508747196,
+  "n_layers": 2
+ },
+ {
+  "dataset_arch": "SHD-FC",
+  "mode": "noise_aug",
+  "max_lambda_r": 88.8219839177297,
+  "max_lambda_tilde": 1.24370309969852,
+  "n_layers": 2
+ },
+ {
+  "dataset_arch": "SHD-RSNN",
+  "mode": "clean",
+  "max_lambda_r": Infinity,
+  "max_lambda_tilde": 2.17134347881144,
+  "n_layers": 2
+ },
+ {
+  "dataset_arch": "SHD-RSNN",
+  "mode": "asar",
+  "max_lambda_r": Infinity,
+  "max_lambda_tilde": Infinity,
+  "n_layers": 2
+ },
+ {
+  "dataset_arch": "SHD-RSNN",
+  "mode": "hajr",
+  "max_lambda_r": Infinity,
+  "max_lambda_tilde": Infinity,
+  "n_layers": 2
+ },
+ {
+  "dataset_arch": "SHD-RSNN",
+  "mode": "noise_aug",
+  "max_lambda_r": Infinity,
+  "max_lambda_tilde": 1.6547607168003067,
+  "n_layers": 2
+ },
+ {
+  "dataset_arch": "SSC-DelRec",
+  "mode": "clean",
+  "max_lambda_r": Infinity,
+  "max_lambda_tilde": 67.13410189803605,
+  "n_layers": 3
+ },
+ {
+  "dataset_arch": "SSC-DelRec",
+  "mode": "asar",
+  "max_lambda_r": Infinity,
+  "max_lambda_tilde": 4.307531001517911,
+  "n_layers": 3
+ },
+ {
+  "dataset_arch": "SSC-DelRec",
+  "mode": "hajr",
+  "max_lambda_r": Infinity,
+  "max_lambda_tilde": 7.364816549725009,
+  "n_layers": 3
+ },
+ {
+  "dataset_arch": "SSC-DelRec",
+  "mode": "noise_aug",
+  "max_lambda_r": Infinity,
+  "max_lambda_tilde": 13.350975106696675,
+  "n_layers": 3
+ },
+ {
+  "dataset_arch": "CIFAR-10",
+  "mode": "clean",
+  "max_lambda_r": 51.669947847717744,
+  "max_lambda_tilde": 1.1213963951113517,
+  "n_layers": 17
+ },
+ {
+  "dataset_arch": "CIFAR-10",
+  "mode": "hajr",
+  "max_lambda_r": 52.16851633236163,
+  "max_lambda_tilde": 1.0674480065772987,
+  "n_layers": 17
+ },
+ {
+  "dataset_arch": "CIFAR-10",
+  "mode": "noise_aug",
+  "max_lambda_r": 51.46216685811147,
+  "max_lambda_tilde": 1.223791395674383,
+  "n_layers": 17
+ },
+ {
+  "dataset_arch": "CIFAR-10",
+  "mode": "asar",
+  "max_lambda_r": 49.89170724747786,
+  "max_lambda_tilde": 0.9070011631324877,
+  "n_layers": 17
+ }
+]
