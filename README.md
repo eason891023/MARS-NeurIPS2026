@@ -35,7 +35,7 @@ The implementation is `snn_robust_tau/loss/hajr.py` (`OnlineHAJR`, called with `
 | `clean` | Clean (learnable β, no regularizer) |
 | `noise_aug` | Noise Aug (Gaussian β perturbation, CV_train = 0.15) |
 | `asar` | **MARS** (ungated ‖Ψ_t‖² penalty, λ = 5e-4) |
-| `hajr` | surrogate-gated MARS ablation (‖σ'(V_t−θ) ⊙ Ψ_t‖²; diagnostics only) |
+| `hajr` | surrogate-gated MARS variant (‖σ'(V_t−θ) ⊙ Ψ_t‖²; exploratory, not reported in the paper) |
 
 In the evaluation code (`eval/`) and in `results/partial/*.json` the MARS method key is `mars`; it loads the
 `asar` checkpoints.

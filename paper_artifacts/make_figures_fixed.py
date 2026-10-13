@@ -57,7 +57,7 @@ plt.rcParams.update({
     "pdf.fonttype": 42,
 })
 
-MODE_LABELS = {"clean": "Clean", "hajr": "Surr.-\ngated", "noise_aug": "Noise\nAug", "asar": "MARS"}
+MODE_LABELS = {"clean": "Clean", "noise_aug": "Noise\nAug", "asar": "MARS"}
 
 
 def _save_and_check(fig, name, final_width_in):
@@ -128,7 +128,7 @@ def make_fig3_heatmap_stability():
     fig.text(0.005, 0.95, "(a)", fontsize=10, fontweight="bold")
 
     ax = fig.add_subplot(gs_right[0, 0])
-    order = ["clean", "hajr", "noise_aug", "asar"]
+    order = ["clean", "noise_aug", "asar"]
     worst, typical = [], []
     for m in order:
         hidden = [r for r in stability[m] if r["layer"] in {"lif1", "lif2"}]
@@ -140,7 +140,7 @@ def make_fig3_heatmap_stability():
            label=r"Worst-case $\lambda_r$")
     ax.bar(x + w / 2, typical, w, color="#7AA974", edgecolor="#3A6B35", lw=0.6,
            label=r"Typical-case $\tilde{\lambda}_r$")
-    ax.axhline(1.0, color="black", ls="--", lw=0.8)
+    ax.axhline(1.0, color="black", ls="--", lw=0.8, label=r"$\lambda=1$")
     ax.set_yscale("log")
     ax.set_ylim(0.3, 1500)
     ax.set_xticks(x)
@@ -150,7 +150,6 @@ def make_fig3_heatmap_stability():
     ax.set_title("Diagnostics (SHD-FC)", fontweight="bold", pad=3)
     ax.legend(loc="upper right", framealpha=0.95, handlelength=1.2, borderpad=0.3,
               labelspacing=0.25, handletextpad=0.4)
-    ax.text(-0.55, 1.1, r"$\lambda=1$", ha="left", va="bottom", fontsize=8)
     fig.text(0.615, 0.95, "(b)", fontsize=10, fontweight="bold")
     return _save_and_check(fig, "fig3_heatmap_stability", TEXTWIDTH_IN)
 
