@@ -2,18 +2,18 @@
 
 Code for the NeurIPS 2026 paper introducing **MARS** (Membrane-Aware Robustness through Sensitivity Regularization).
 
-Chiu Chang Cheng<sup>1</sup>, Ya Ning Chang<sup>1,*</sup>, Chao Hung Wang<sup>1,2,*</sup>
+Chiu-Chang Cheng<sup>1</sup>, Ya-Ning Chang<sup>1,*</sup>, Chao-Hung Wang<sup>1,2,*</sup>
 
 <sup>1</sup> Miin Wu School of Computing, National Cheng Kung University
 <sup>2</sup> Academy of Innovative Semiconductor and Sustainable Manufacturing, National Cheng Kung University
-<sup>*</sup> Corresponding authors: Ya Ning Chang (yaningchang@gs.ncku.edu.tw) and Chao Hung Wang (chwang@gs.ncku.edu.tw)
+<sup>*</sup> Corresponding authors: Ya-Ning Chang (yaningchang@gs.ncku.edu.tw) and Chao-Hung Wang (chwang@gs.ncku.edu.tw)
 
 Paper: TBD
 
 ```bibtex
 @inproceedings{cheng2026mars,
   title     = {Membrane Sensitivity and Deployment Fragility of Learnable Time Constants in Spiking Neural Networks},
-  author    = {Cheng, Chiu Chang and Chang, Ya Ning and Wang, Chao Hung},
+  author    = {Cheng, Chiu-Chang and Chang, Ya-Ning and Wang, Chao-Hung},
   booktitle = {Advances in Neural Information Processing Systems (NeurIPS)},
   year      = {2026},
   note      = {TBD}
